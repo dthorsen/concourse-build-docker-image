@@ -23,4 +23,3 @@ resources:
     username: {{docker-hub-username}}
     password: {{docker-hub-password}}
     repository: {{docker-create-concourse-go-image}}
-    dockerfile: /Dockerfile
